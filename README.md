@@ -2,7 +2,7 @@
 
 Simple Celsius to Fahrenheit converter built with inspiration from the Rust Programming Book
 
-[![Build & Release.](https://github.com/W4ff1e/celsius_to_fahrenheit/actions/workflows/build.yml/badge.svg?event=release)](https://github.com/W4ff1e/celsius_to_fahrenheit/actions/workflows/build.yml)
+[![Build & Release](https://github.com/W4ff1e/celsius_to_fahrenheit/actions/workflows/build.yml)](https://github.com/W4ff1e/celsius_to_fahrenheit/actions/workflows/build.yml)
 
 ## Dependencies
 
